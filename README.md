@@ -1,6 +1,6 @@
-# Dblp_Query_Engine
+Dblp Query Engine
 
-A offline DBLP Query Engine based on JAVA , based on dblp.xml ( 1.78 GB ) available online
+An offline DBLP query ngine based on JAVA.The database is "dblp.xml" ( 1.78 GB ) available online.
 
 #include <bits/stdc++.h>
 int main() {std::cout<<"Hello World!"<<endl;}
